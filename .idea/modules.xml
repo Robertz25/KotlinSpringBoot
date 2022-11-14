@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/course-catalog-service.iml" filepath="$PROJECT_DIR$/.idea/course-catalog-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/course-catalog-service.course-catalog-service.iml" filepath="$PROJECT_DIR$/.idea/modules/course-catalog-service.course-catalog-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/course-catalog-service.course-catalog-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/course-catalog-service.course-catalog-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/course-catalog-service.course-catalog-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/course-catalog-service.course-catalog-service.test.iml" />
+    </modules>
+  </component>
+</project>
